@@ -1,7 +1,7 @@
 
 <img src="https://i.imgur.com/O2kqA1N.png" width="100%" align="center">
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fathir Dwi Assyawal</h2>
+<img alt="Night Coding" src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fathir Dwi Assyawal</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
