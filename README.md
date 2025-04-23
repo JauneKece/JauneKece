@@ -1,4 +1,5 @@
-![JauneKece Banner]([https://github.com/JauneKece/JauneKece/blob/main/ChatGPT%20Image%20Apr%2023,%202025,%2001_50_21%20PM.png?raw=true])
+
+<img src="https://i.imgur.com/O2kqA1N.png" width="100%" align="center">
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Fathir Dwi Assyawal</h2>
 
