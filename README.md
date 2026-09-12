@@ -17,7 +17,7 @@
 ### 🧭 About Me
 
 - 🎓 Fresh graduate of **SMK Negeri 1 Cibinong** (SIJA — Sistem Informasi Jaringan dan Aplikasi), Class of 2026
-- 🚀 Founder of **[Somnara](https://github.com/JauneKece)**, an indie creative studio building mobile apps, web apps, and games — *"Where imagination ships."*
+- 🚀 Founder of **[Somnara](https://www.instagram.com/somnara.studio/)**, an indie creative studio building mobile apps, web apps, and games — *"Where imagination ships."*
 - 🛠️ Main focus: **Flutter/Dart** for mobile, plus full-stack web with Laravel, Next.js, and NestJS
 - 🎮 Enjoy gaming and following the latest in tech
 - 📫 Reach me at **fathirdwiassyawal@gmail.com**
