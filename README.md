@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://imgur.com/a/nNbLkbo.png" width="100%">
+<img src="https://imgur.com/a/FhsIII0" width="100%">
 
 <h1>Hi there, I'm Fathir Dwi Assyawal 👋</h1>
 
